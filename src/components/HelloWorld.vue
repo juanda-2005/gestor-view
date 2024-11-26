@@ -5,7 +5,7 @@
       Esta aplicación te permite gestionar tus tareas de manera eficiente. Puedes añadir nuevas <br> 
       tareas manualmente o extraerlas desde una API.    
     </p>
-    <h3>Secciones de la aplicacioooooooooooon</h3><br>
+    <h3>Secciones de la aplicacion</h3><br>
     <ul>
       <li><strong>Agregar Tarea:</strong> Permite ingresar nuevas tareas manualmente.</li><br><br>
       <li><strong>Listar de Tareas:</strong> Muestra todas las tareas extraídas desde la API, permitiendo marcarlas como completadas o eliminarlas.</li><br><br>
